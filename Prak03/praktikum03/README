@@ -1,0 +1,9 @@
+-	Buat folder baru untuk project ini misalnya praktikum03
+-	$ mkdir praktikum03
+-	$ cd praktikum03
+-	Build ini go di folder go
+-	$ go mod init praktikum03
+-	Buat folder ratarata
+-	Mkdir ratarata
+-	Cd ratarata
+-	Buat file bernama ratarata.go
